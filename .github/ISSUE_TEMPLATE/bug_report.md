@@ -1,29 +1,25 @@
-**Describe the bug**  
-A clear and concise description of what the bug is.
+---
+name: Bug report
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+---
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## このIssueで解決したい問題点の内容
+- このIssueで解決したい問題点の内容
+(Sample) test.py を実行した際に、結果のcsvファイルが生成されない
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Issueが解決した時に期待される結果
+- 実行されたときのイメージを絵・文章で表現
+(sample) result.csvが生成される。
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## このIssueの必要性
+- 変更のモチベーション、理由
+(sample) 制御結果を時系列で確認し、後のcontrol.pyへ渡すため
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+## Issue解決の期限
+(Sample)
+- 2022/12/01まで
+- 学会発表のために
