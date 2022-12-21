@@ -7,16 +7,17 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-test message
+## 追加したい機能
+- このIssueで追加したい機能の内容
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## Issueが解決した時に期待される結果
+- 実行されたときのイメージを絵・文章で表現
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## このIssueの必要性
+- 変更のモチベーション、理由
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## Issue解決の期限
+(Sample)
+- 2022/12/01まで
+- 学会発表のために
  
